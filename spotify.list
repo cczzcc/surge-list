@@ -1,5 +1,7 @@
 # Spotify
 USER-AGENT,Spotify*
 USER-AGENT,*Spotify*
+USER-AGENT,PayPal*
+USER-AGENT,*PayPal*
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spotify.com
