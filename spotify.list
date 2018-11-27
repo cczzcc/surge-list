@@ -5,3 +5,4 @@ USER-AGENT,PayPal*
 USER-AGENT,*PayPal*
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,paypal.com
