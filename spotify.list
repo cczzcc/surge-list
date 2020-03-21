@@ -2,8 +2,13 @@
 PROCESS-NAME,Spotify
 USER-AGENT,Spotify*
 USER-AGENT,*Spotify*
-USER-AGENT,PayPal*
 USER-AGENT,*PayPal*
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-KEYWORD,spotify
+
+# PayPal
 DOMAIN-SUFFIX,paypal.com
+USER-AGENT,PayPal*
