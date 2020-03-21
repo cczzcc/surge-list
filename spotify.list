@@ -1,4 +1,5 @@
 # Spotify
+PROCESS-NAME,Spotify
 USER-AGENT,Spotify*
 USER-AGENT,*Spotify*
 USER-AGENT,PayPal*
