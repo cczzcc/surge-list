@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,-spotify-com
 
 # PayPal
 DOMAIN-SUFFIX,paypal.com
